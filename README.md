@@ -1,1 +1,2 @@
-# jobs.ai
+# jobhunt.ai
+
